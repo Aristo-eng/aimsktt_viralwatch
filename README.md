@@ -1,3 +1,3 @@
 # Viral Watch 
 
-Introduction to Git
+Introduction to Git repository
